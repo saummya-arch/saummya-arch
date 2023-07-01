@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)](https://github.com/saummya-arch)
 <h1 align="center">Hi 👋, I'm Somya Chandra</h1>
 <h3 align="center">A passionate python/SQL developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saummya-arch&label=Profile%20views&color=0e75b6&style=flat" alt="saummya-arch" /> </p>
 
