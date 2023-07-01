@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/Jfw2.gif)](https://github.com/saummya-arch)
+[![MasterHead](https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif)](https://github.com/saummya-arch)
 <h1 align="center">Hi 👋, I'm Somya Chandra</h1>
 <h3 align="center">A passionate python/SQL developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
